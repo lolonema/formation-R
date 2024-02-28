@@ -11,6 +11,7 @@ C'est pas mal mais un peu creux
 Vous voulez savoir ce que pense Microsoft => 
 https://chat.openai.com/share/3f23c165-014a-4fa4-89a0-d7b7ca750b5c
 Pour celles et ceux qui n'ont pas de compte... 
+(je vous conseille la lecture du chapitre 5)
 
 Bonjour ! L'application R est un environnement logiciel open source largement utilisé pour l'analyse statistique et la visualisation de données. Voici quelques points à considérer :
 
