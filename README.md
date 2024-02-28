@@ -3,6 +3,9 @@ Projet du mercredi
 # Je fais une modification depuis mon espace Local
 Mais je peux aussi faire des modifs en distant... Modification REadMe
 
+
+=> Crois-tu pour autant qu'il y ait de quoi en être fier? Je pose le débat.
+
 C'est pas mal mais un peu creux
 
 # Dodo l'incrust'
@@ -28,3 +31,4 @@ Bonjour ! L'application R est un environnement logiciel open source largement ut
 6. **Langage de programmation :** R est avant tout un langage de programmation, ce qui signifie que vous avez un contrôle total sur vos analyses et pouvez automatiser des tâches complexes.
 
 Dans l'ensemble, si vous travaillez dans les domaines de la statistique, de l'analyse de données ou des sciences sociales, l'application R peut être un outil extrêmement précieux. Cependant, si vous recherchez quelque chose de plus orienté vers l'interface utilisateur ou si vous avez besoin de performances massivement parallèles pour des ensembles de données très volumineux, d'autres outils peuvent être plus adaptés.
+
