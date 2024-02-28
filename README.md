@@ -8,3 +8,5 @@ C'est pas mal mais un peu creux
 # Dodo l'incrust'
 
 ## Test
+Vous voulez savoir ce que pense Microsoft => 
+https://chat.openai.com/share/3f23c165-014a-4fa4-89a0-d7b7ca750b5c
